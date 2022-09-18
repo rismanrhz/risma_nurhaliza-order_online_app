@@ -7,4 +7,13 @@ Select quantitiy of food
 Finish choose food order?
     No, back to select menu
     Yes, continue to select payment methode
-    
+Select payment methode
+    If select e-wallet, do
+        Transfer total payment
+        Confirmation payment by system
+        Making and shipping process
+    If select cash on delivery, do
+        Confirmation payment methode by system
+        Making and shipping process
+        Pay order
+End
